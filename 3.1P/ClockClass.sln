@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockClass", "ClockClass\ClockClass.csproj", "{A44E75E3-688F-40A6-AB7B-B973F1CE6655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockTests", "ClockTests\ClockTests.csproj", "{CF2364C0-A29F-4270-8271-756B9E9DCDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44E75E3-688F-40A6-AB7B-B973F1CE6655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44E75E3-688F-40A6-AB7B-B973F1CE6655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44E75E3-688F-40A6-AB7B-B973F1CE6655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44E75E3-688F-40A6-AB7B-B973F1CE6655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2364C0-A29F-4270-8271-756B9E9DCDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2364C0-A29F-4270-8271-756B9E9DCDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2364C0-A29F-4270-8271-756B9E9DCDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2364C0-A29F-4270-8271-756B9E9DCDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE03AA1-8079-4F1F-9009-18BC668C7B80}
+	EndGlobalSection
+EndGlobal

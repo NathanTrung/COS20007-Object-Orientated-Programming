@@ -1,0 +1,15 @@
+/Users/nathantrung/Projects/ClockClass/ClockClass/bin/Debug/net6.0/ClockClass
+/Users/nathantrung/Projects/ClockClass/ClockClass/bin/Debug/net6.0/ClockClass.deps.json
+/Users/nathantrung/Projects/ClockClass/ClockClass/bin/Debug/net6.0/ClockClass.runtimeconfig.json
+/Users/nathantrung/Projects/ClockClass/ClockClass/bin/Debug/net6.0/ClockClass.dll
+/Users/nathantrung/Projects/ClockClass/ClockClass/bin/Debug/net6.0/ClockClass.pdb
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.csproj.AssemblyReference.cache
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.AssemblyInfoInputs.cache
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.AssemblyInfo.cs
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.csproj.CoreCompileInputs.cache
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.dll
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/refint/ClockClass.dll
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.pdb
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ClockClass.genruntimeconfig.cache
+/Users/nathantrung/Projects/ClockClass/ClockClass/obj/Debug/net6.0/ref/ClockClass.dll
