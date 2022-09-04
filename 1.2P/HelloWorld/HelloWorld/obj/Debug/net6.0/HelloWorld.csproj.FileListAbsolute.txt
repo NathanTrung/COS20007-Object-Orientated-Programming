@@ -1,0 +1,30 @@
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/nathantrung/Documents/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/1.2P/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll

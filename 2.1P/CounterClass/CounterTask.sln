@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterTask", "CounterClass\CounterTask.csproj", "{0D25E909-29C3-43F4-B143-CA2CC4F8255B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DBCBFE59-A826-4942-9F5B-DFD7B3E44AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D25E909-29C3-43F4-B143-CA2CC4F8255B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D25E909-29C3-43F4-B143-CA2CC4F8255B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D25E909-29C3-43F4-B143-CA2CC4F8255B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D25E909-29C3-43F4-B143-CA2CC4F8255B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {045E2B32-E7B2-45C5-B326-3DB08F63999A}
+	EndGlobalSection
+EndGlobal

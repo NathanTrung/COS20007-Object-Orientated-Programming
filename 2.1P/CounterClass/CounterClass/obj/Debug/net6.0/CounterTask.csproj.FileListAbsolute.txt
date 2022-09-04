@@ -1,0 +1,30 @@
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.deps.json
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.runtimeconfig.json
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.pdb
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.csproj.AssemblyReference.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.AssemblyInfoInputs.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.AssemblyInfo.cs
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/refint/CounterTask.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.pdb
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.genruntimeconfig.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022 Semester 2/COS20007 OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/ref/CounterTask.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.deps.json
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.runtimeconfig.json
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/bin/Debug/net6.0/CounterTask.pdb
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.csproj.AssemblyReference.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.AssemblyInfoInputs.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.AssemblyInfo.cs
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/refint/CounterTask.dll
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.pdb
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/CounterTask.genruntimeconfig.cache
+/Users/nathantrung/Desktop/University/Swinburne/2022Semester2/COS20007OOP/Code/2.1P/CounterClass/CounterClass/obj/Debug/net6.0/ref/CounterTask.dll
