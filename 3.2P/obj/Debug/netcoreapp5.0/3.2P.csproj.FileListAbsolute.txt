@@ -1,0 +1,16 @@
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\bin\Debug\netcoreapp5.0\3.2P.exe
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\bin\Debug\netcoreapp5.0\3.2P.deps.json
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\bin\Debug\netcoreapp5.0\3.2P.runtimeconfig.json
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\bin\Debug\netcoreapp5.0\3.2P.runtimeconfig.dev.json
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\bin\Debug\netcoreapp5.0\3.2P.dll
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\bin\Debug\netcoreapp5.0\3.2P.pdb
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.AssemblyInfo.cs
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.dll
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\refint\3.2P.dll
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.pdb
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\3.2P.genruntimeconfig.cache
+C:\Users\natha\Documents\University\2022Semester2\Code\COS20007\3.2P\obj\Debug\netcoreapp5.0\ref\3.2P.dll
